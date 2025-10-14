@@ -16,7 +16,7 @@ This project contains two main files:
 1. Clone or download this repository to your local machine.
 2. Navigate to the project directory:
     ```bash
-    cd "/path/GWU-Algorithms-Fall-2025-Project-2/"
+    cd "/path/GWU-Algorithms-Fall-2025-Project2/"
     ```
 
 ## Running the Application
