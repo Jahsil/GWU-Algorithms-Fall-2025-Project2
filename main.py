@@ -1,7 +1,5 @@
 # import time to measure execution time
 import time
-import random
-
 
 # Quickselect algorithm implementation in Python using the Median of Medians approach.
 # Time complexity is guaranteed to be O(n) in the worst case.
