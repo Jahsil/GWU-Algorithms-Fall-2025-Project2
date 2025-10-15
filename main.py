@@ -120,7 +120,7 @@ if __name__ == "__main__":
     n = 10 ** power  
     k = n // 2  # Find the median value
 
-    nums_list = [random.randint(1, n * 10) for _ in range(n)]  # Random list of n values
+    nums_list = [i for i in range(n)]  
    
     start_time = time.time()
     result = findMedianOfMedians(nums_list, k)
